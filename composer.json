@@ -1,0 +1,16 @@
+{
+    "name": "phpdr.net/php-yaf-doc",
+    "description": "PHP yar document file for IDE",
+    "authors": [
+		{
+            "name": "Ares",
+            "email": "admin@phpdr.net",
+            "homepage" : "http://phpdr.net"
+        }
+    ],
+    "keywords": [
+		"php-yar",
+		"php-yar-doc"
+    ],
+    "license": "Apache-2.0"
+}
